@@ -1,7 +1,7 @@
 # Antwoorden opdracht 1
 
 Antwoord in bytes:
-
+183 Antwoord in kilobytes: 0, 183
 Antwoord in kilobytes:
 
 # Antwoorden opdracht 2
